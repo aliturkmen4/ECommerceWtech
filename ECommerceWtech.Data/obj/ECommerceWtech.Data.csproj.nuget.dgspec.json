@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ECommerceWtech\\ECommerceWtech.Data\\ECommerceWtech.Data.csproj": {}
+    "C:\\Users\\alitu\\OneDrive\\Belgeler\\GitHub\\ECommerceWtech\\ECommerceWtech\\ECommerceWtech.Data\\ECommerceWtech.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ECommerceWtech\\ECommerceWtech.Data\\ECommerceWtech.Data.csproj": {
+    "C:\\Users\\alitu\\OneDrive\\Belgeler\\GitHub\\ECommerceWtech\\ECommerceWtech\\ECommerceWtech.Data\\ECommerceWtech.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ECommerceWtech\\ECommerceWtech.Data\\ECommerceWtech.Data.csproj",
+        "projectUniqueName": "C:\\Users\\alitu\\OneDrive\\Belgeler\\GitHub\\ECommerceWtech\\ECommerceWtech\\ECommerceWtech.Data\\ECommerceWtech.Data.csproj",
         "projectName": "ECommerceWtech.Data",
-        "projectPath": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ECommerceWtech\\ECommerceWtech.Data\\ECommerceWtech.Data.csproj",
+        "projectPath": "C:\\Users\\alitu\\OneDrive\\Belgeler\\GitHub\\ECommerceWtech\\ECommerceWtech\\ECommerceWtech.Data\\ECommerceWtech.Data.csproj",
         "packagesPath": "C:\\Users\\alitu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ECommerceWtech\\ECommerceWtech.Data\\obj\\",
+        "outputPath": "C:\\Users\\alitu\\OneDrive\\Belgeler\\GitHub\\ECommerceWtech\\ECommerceWtech\\ECommerceWtech.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

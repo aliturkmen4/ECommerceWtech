@@ -775,11 +775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ECommerceWtech\\ECommerceWtech.UI\\ECommerceWtech.UI.csproj",
+      "projectUniqueName": "C:\\Users\\alitu\\OneDrive\\Belgeler\\GitHub\\ECommerceWtech\\ECommerceWtech\\ECommerceWtech.UI\\ECommerceWtech.UI.csproj",
       "projectName": "ECommerceWtech.UI",
-      "projectPath": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ECommerceWtech\\ECommerceWtech.UI\\ECommerceWtech.UI.csproj",
+      "projectPath": "C:\\Users\\alitu\\OneDrive\\Belgeler\\GitHub\\ECommerceWtech\\ECommerceWtech\\ECommerceWtech.UI\\ECommerceWtech.UI.csproj",
       "packagesPath": "C:\\Users\\alitu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ECommerceWtech\\ECommerceWtech.UI\\obj\\",
+      "outputPath": "C:\\Users\\alitu\\OneDrive\\Belgeler\\GitHub\\ECommerceWtech\\ECommerceWtech\\ECommerceWtech.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0kTSJ4mViyS2gtsOtOPVY9tp6P4OarpSKnz4BSCEoQ5CodutfMnvqj3Q5d/keBhVx5PlU0hGXsBLNRd8A19W6A==",
+  "dgSpecHash": "XSgGVxWGAONDoLlsBKJAXMkmN7YKEUbDhU/m4hywH/AkA0xI7RPUB9QtospLQ7yeruDTBKG3B1REn5qf3T5SFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alitu\\OneDrive\\Masaüstü\\ConsoleCalısma\\ECommerceWtech\\ECommerceWtech.UI\\ECommerceWtech.UI.csproj",
+  "projectFilePath": "C:\\Users\\alitu\\OneDrive\\Belgeler\\GitHub\\ECommerceWtech\\ECommerceWtech\\ECommerceWtech.UI\\ECommerceWtech.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alitu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\alitu\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
