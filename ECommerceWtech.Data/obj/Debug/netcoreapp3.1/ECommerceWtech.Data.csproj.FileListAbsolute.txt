@@ -1,0 +1,13 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\bin\Debug\netcoreapp3.1\ECommerceWtech.Data.deps.json
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\bin\Debug\netcoreapp3.1\ECommerceWtech.Data.runtimeconfig.json
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\bin\Debug\netcoreapp3.1\ECommerceWtech.Data.runtimeconfig.dev.json
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\bin\Debug\netcoreapp3.1\ECommerceWtech.Data.dll
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\bin\Debug\netcoreapp3.1\ECommerceWtech.Data.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\obj\Debug\netcoreapp3.1\ECommerceWtech.Data.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\obj\Debug\netcoreapp3.1\ECommerceWtech.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\obj\Debug\netcoreapp3.1\ECommerceWtech.Data.AssemblyInfoInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\obj\Debug\netcoreapp3.1\ECommerceWtech.Data.AssemblyInfo.cs
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\obj\Debug\netcoreapp3.1\ECommerceWtech.Data.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\obj\Debug\netcoreapp3.1\ECommerceWtech.Data.dll
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\obj\Debug\netcoreapp3.1\ECommerceWtech.Data.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleCalısma\ECommerceWtech\ECommerceWtech.Data\obj\Debug\netcoreapp3.1\ECommerceWtech.Data.genruntimeconfig.cache
